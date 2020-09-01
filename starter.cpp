@@ -11,7 +11,6 @@ using namespace std;
 
 #define f(i, c, n) for (int i = c; i < n; i++)
 #define ii int, int
-#define S string
 #define ll long long int
 #define vi vector<int>
 #define vvi vector<vector<int>>
